@@ -1,4 +1,3 @@
-SimpleRubyApp
-=============
+# SimpleRubyApp
 
-Aplicação simples em Ruby
+Aplicação simples em Ruby utilizando Webrick como servidor
